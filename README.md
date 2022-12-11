@@ -39,7 +39,37 @@ An automated system was developed to analyze and monitor an enormous number of r
 
 
 
+---
 
+### **4. Project Objectives**
+Reviews Preprocessing and Cleaning
+
+Story Generation and Visualization from reviews - Tableau
+
+Extracting Features from Cleaned reviews
+
+Model Building: Sentiment Analysis
+
+Model Building: Time Series Analysis
+
+Model Deployment
+
+---
+
+### **5.Steps to run my deployed project on your local server**
+Steps to set up your environment, and run my project on your local server 
+
+Go to your command prompt/terminal, change your directory to the folder that includes all the files in the deploymed_files folder 
+and enter the following codes:
+
+1. pip install virtualenv
+2. virtualenv ENV
+3. ./ENV/Scripts/activate
+4. install all required dependencies listed in requirements.txt
+5. To run our website on your local server, enter the code python app.py
+6. Enter the ip address generated, on your browser's search bar. 
+
+---
 
 ### **6. Data Source Files**
 
