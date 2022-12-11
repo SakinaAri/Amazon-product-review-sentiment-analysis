@@ -36,6 +36,7 @@ An automated system was developed to analyze and monitor an enormous number of r
 ---
 
 ### **3. Technologies Used**
+![image](https://user-images.githubusercontent.com/118181589/206911991-3b04872d-0784-42d6-b043-1d14912d5cbe.png)
 
 
 
