@@ -33,6 +33,10 @@ An automated system was developed to analyze and monitor an enormous number of r
 
 *Time Series* Analysis helps in highlighting trends to forecast sentiment trends for particular subcategories in the future. Brands can discover many hidden trends in customer sentiments from historical data.
 
+
+![WhatsApp Image 2022-12-11 at 17 39 18](https://user-images.githubusercontent.com/118181589/206913431-8275a984-8b76-47a2-b47e-cc37c2b4e66c.jpg)
+
+
 ---
 
 ### **Technologies Used**
