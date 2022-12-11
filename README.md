@@ -1,19 +1,19 @@
 # Amazon-Product-Reviews - Sentiment-Analysis
-
+[Go to Real Cool Heading section](#real-cool-heading)
 
 
 ## **Table of Contents**
 
-1. Problem Statement 
-2. My Approach
-3. Technologies used
-4. Project Objectives
-5. Steps to run my deployed project on your local server
-6. Data source files
+[1. Problem Statement](#problem-statement)   
+[2. My Approach](#my-approach)   
+[3. Technologies used](#technologies-used)   
+[4. Project Objectives](#project-objectives)   
+[5. Steps to run my deployed project on your local server](#steps-to-run-my-deployed-project-on-your-local-server)   
+[6. Data source files](#data-source-files)   
 
 ---
 
-### **1. Problem Statement**
+### **Problem Statement**
 
 It is observed that the maximum number of customers look at product reviews before they make a purchase. Survey results show that positive product reviews are a key factor for purchasing by 57% of Amazon buyers (Statista, 2019). 
 
@@ -23,7 +23,7 @@ The traditional manual process of Amazon product reviews is time-consuming and i
 
 ---
 
-### **2. My Approach**
+### **My Approach**
 
 I will be classifying Amazon customer reviews from the source files mentioned below, into 3 categories of positive, negative and neutral. We used Text Classification and Time Series Analysis to solve this problem statement.  
 
@@ -35,14 +35,14 @@ An automated system was developed to analyze and monitor an enormous number of r
 
 ---
 
-### **3. Technologies Used**
+### **Technologies Used**
 ![image](https://user-images.githubusercontent.com/118181589/206911991-3b04872d-0784-42d6-b043-1d14912d5cbe.png)
 
 
 
 ---
 
-### **4. Project Objectives**
+### **Project Objectives**
 Reviews Preprocessing and Cleaning
 
 Story Generation and Visualization from reviews - Tableau
@@ -57,7 +57,7 @@ Model Deployment
 
 ---
 
-### **5.Steps to run my deployed project on your local server**
+### **Steps to run my deployed project on your local server**
 Steps to set up your environment, and run my project on your local server 
 
 Go to your command prompt/terminal, change your directory to the folder that includes all the files in the deploymed_files folder 
@@ -72,7 +72,7 @@ and enter the following codes:
 
 ---
 
-### **6. Data Source Files**
+### **Data Source Files**
 
 http://jmcauley.ucsd.edu/data/amazon/
 
