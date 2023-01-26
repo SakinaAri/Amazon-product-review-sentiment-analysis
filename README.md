@@ -1,5 +1,4 @@
 # Amazon-Product-Reviews - Sentiment-Analysis
-[Go to Real Cool Heading section](#real-cool-heading)
 
 
 ## **Table of Contents**
